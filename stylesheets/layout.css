@@ -1,0 +1,23 @@
+a {
+  color: inherit;
+}
+.menubar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+  padding-top: 20px;
+}
+.menubar a {
+  height: 20px;
+  text-decoration: none;
+  color: #aaa;
+}
+
+.menubar img {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 40px;
+  padding-top: 30px;
+}
